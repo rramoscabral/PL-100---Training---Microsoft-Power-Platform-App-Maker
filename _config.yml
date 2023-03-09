@@ -1,0 +1,8 @@
+theme: jekyll-theme-slate
+title: PL-100 - Microsoft Power Platform App Maker
+description: Companion material and resources for the course 'Microsoft Power Platform App Maker' delivery by Ricardo Cabral. 
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
