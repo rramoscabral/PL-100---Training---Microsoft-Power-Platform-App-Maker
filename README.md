@@ -20,6 +20,8 @@ A Microsoft Power Platform Functional Consultant is responsible for creating and
 
 ---
 
+<a id="othertraining" />
+
 # Companion Material and Resources for other Power Platform class Delivery
 
 - [PL-200T00: Microsoft Power Platform Functional Consultant](https://pl-200.rramoscabral.com)
