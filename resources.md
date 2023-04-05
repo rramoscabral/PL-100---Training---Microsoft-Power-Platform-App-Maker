@@ -9,12 +9,34 @@
 
 <br>
 
+* [Microsoft Power Platform](#power_platform)
 * [Microsoft Power Apps](#power_apps)
 * [Microsoft Power Automate](#power_automate)
 * [Microsoft Dataverse](#dataverse)
 * [Microsoft Power BI](#power_bi)
 * [Microsoft Virtual Agents](#power_virtualagents)
 
+
+<br/>
+
+---
+
+<a id="power_platform" />
+
+<br/>
+
+
+**Microsoft Power Platform**
+
+- [Microsoft Power Platform and Dynamics 365 release plans](https://docs.microsoft.com/en-us/dynamics365/release-plans/)
+- [Microsoft Power Platform Adoption](https://adoption.microsoft.com/powerplatform/)
+- [Microsoft Power Platform Blog](https://cloudblogs.microsoft.com/powerplatform/)
+- [Microsoft Power Platform Fundamentals](https://docs.microsoft.com/en-us/learn/paths/power-plat-fundamentals/)
+- [User community](https://powerusers.microsoft.com/)
+
+<br/>
+
+[**Back to top**](#top) | [**Back to main**](README.md)
 
 <br/>
 
