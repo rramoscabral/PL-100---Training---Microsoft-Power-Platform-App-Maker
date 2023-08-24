@@ -63,7 +63,9 @@ The Microsoft poster Certified is available [**here**](https://aka.ms/TrainCertP
 ### **Skills measured**
 
 
-The exam measured skills are constantly being updated due to dynamic cloud services. So it is highly recommended to always consult the official exam page [**here**](https://learn.microsoft.com/en-us/certifications/exams/pl-200).
+The exam measured skills are constantly being updated due to dynamic cloud services. So it is highly recommended to always consult the official exam page [**here**](https://learn.microsoft.com/en-us/certifications/exams/pl-100).
+
+Review the PL-100 study guide to help you prepare for the exam [**here**](https://learn.microsoft.com/en-us/certifications/resources/study-guides/PL-100)
 
 <br/>
 
