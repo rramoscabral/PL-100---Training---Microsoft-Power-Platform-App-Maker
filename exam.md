@@ -96,7 +96,7 @@ You can access demo tests for free. Each demo is a short version of the complete
 <br/>
 
 You can buy the practice test at:
-- [Measureup](https://www.measureup.com/microsoft-practice-test-pl-100-microsoft-power-platform-app-maker.html).
+- [Measureup](https://www.measureup.com/microsoft-practice-test-pl-100-microsoft-power-platform-app-maker.html#u5).
 - [Mindhub](https://eu1.mindhub.com/pl-100-microsoft-power-platform-app-maker-microsoft-official-practice-test/p/MU-PL-100).
 
 
